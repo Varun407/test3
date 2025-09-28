@@ -1,4 +1,4 @@
-print("version 1")
+print("version 2")
 print("test case 3")
-print("New file 1")
+print("New file 2")
 print("index.js")
